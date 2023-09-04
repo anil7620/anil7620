@@ -1,11 +1,10 @@
 
-<h1 align="center">Hi 👋, I'm Anil Kumar Reddy</h1>  
+<h1 align="center">Hi 👋, I'm Anil Kumar Reddy Konda</h1>  
 <h3 align="center">DevOps | Developer | Researcher</h3>  
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anil7620&label=Profile%20views&color=0e75b6&style=flat" alt="anil7620" /> </p>  
   
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anil7620" alt="anil7620" /></a> </p>  
-  
+
   
 - 🔭 I’m currently working on **___**  
   
