@@ -7,11 +7,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anil7620" alt="anil7620" /></a> </p>  
   
   
-- 🔭 I’m currently working on **A**  
+- 🔭 I’m currently working on **___**  
   
 - 🌱 I’m currently learning **Django**  
   
-- 👨‍💻 All of my projects are available at [github.com/anil7620](github.com/anil7620)  
+- 👨‍💻 All of my projects are available at [Here](https://github.com/anil7620/)
   
 - 💬 Ask me about **DevOps, Cloud**  
   
