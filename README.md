@@ -6,13 +6,13 @@
   
 
   
-- 🔭 I’m currently working on **___**  
+- 🔭 I’m currently working on [**Django Online MarketPlace**](https://github.com/anil7620/Django-Online-MarketPlace) 
   
 - 🌱 I’m currently learning **Django**  
   
 - 👨‍💻 All of my projects are available at [Here](https://github.com/anil7620/)
   
-- 💬 Ask me about **DevOps, Cloud**  
+- 💬 Ask me about **DevOps, AWS**  
   
 - 📫 How to reach me **hello@anilreddy.me**  
   
