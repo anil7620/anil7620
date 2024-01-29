@@ -14,7 +14,7 @@
   
 - 💬 Ask me about **DevOps, AWS**  
   
-- 📫 How to reach me **hello@anilreddy.me**  
+- 📫 How to reach me **kondaanil76@gmail.com**  
   
 - 📄 Know about my experiences [here](https://www.linkedin.com/in/anil7620/) 
     
